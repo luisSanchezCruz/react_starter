@@ -1,5 +1,5 @@
 # react_starter
-react  app templaste with Webpack, babel, sass
+react  app template with Webpack, babel, sass
 
 how to start?
 1- npm install
