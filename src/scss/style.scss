@@ -1,0 +1,32 @@
+/*sass template change this*/
+
+$theme-color: cornflowerblue;
+$font-color: white;
+
+body {
+    background-color: $theme-color;
+    background-image: url('http://blog.soshace.com/wp-content/uploads/2016/08/react.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: $font-color;
+    font-size: x-large;
+    
+}
+
+h1, p {
+    text-align: center;
+    margin: 0 auto;
+ }
+
+ul {
+    
+    list-style: none;
+    position: fixed;
+    top: 0;
+    font-size: large;
+    li ,a{
+        color: white 
+     }
+}
